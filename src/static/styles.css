@@ -83,8 +83,7 @@ section h3 {
 .participants h5 {
   margin-bottom: 6px;
   color: #1a237e;
-  font-size: 0.9rem;
-}
+  font-size: 0.9rem;Let's use the AAA (Arrange-Act-Assert) testing pattern to structure our tests
 
 .participant-list {
   padding-left: 20px;
